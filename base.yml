@@ -1,10 +1,9 @@
 ---
 - hosts: local
   connection: local
- 
+
   roles:
     - {role: cask, tags: cask, when: "ansible_os_family == 'Darwin'"}
-    ## Basics
     # ***
     # Have a look at our roles repository for a hug collection of generic roles
     # ***
