@@ -9,6 +9,7 @@ Basic starter kit to create your own provisioning
 3. Init git again `git init`
 4. Run `setup.sh`
 5. Have a look at `base.yml` and adjust it to your needs
+6. Start the provisioning by running `ansible-playbook -i inventory base.yml` 
 
 ## How does this work?
 
