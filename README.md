@@ -13,5 +13,7 @@ Basic starter kit to create your own provisioning
 
 ## How does this work?
 
-`setup.sh` will create a few folders, install Ansible and pull our generic
+- `setup.sh` will create a few folders, install Ansible and pull our generic
 roles.
+- `run.sh` will run the provisioning based on the config provided in `base.yml`.
+- You can add your own roles under `./roles`
