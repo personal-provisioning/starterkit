@@ -4,7 +4,7 @@ Basic starter kit to create your own provisioning
 
 ## Quick start
 
-1. Clone this repo `git clone https://github.com/personal-provisioning/starterkit.git`
+1. Clone this repo `git clone https://github.com/personal-provisioning/starterkit.git ~/.personal_provisioning/playbook`
 2. Delete the git folder `rm -rf .git/`
 3. Init git again `git init`
 4. Run `setup.sh`
