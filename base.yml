@@ -5,5 +5,5 @@
   roles:
     - {role: cask, tags: cask, when: "ansible_os_family == 'Darwin'"}
     # ***
-    # Have a look at our roles repository for a hug collection of generic roles
+    # Have a look at our roles repository for a huge collection of generic roles
     # ***
